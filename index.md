@@ -36,4 +36,4 @@ From research experience and self directed study, I have experience with:
     - obstacles and path planning problems
     - matrix representations of rigid body configurations (SO(n) and SE(n))
     - transformations between configuration and velocity representations
-    - induced metrics + physical interpretation of geodesics
+    - physical interpretations of geodesics under various induced metrics
