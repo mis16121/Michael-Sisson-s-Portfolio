@@ -24,7 +24,7 @@ From research experience and self directed study, I have experience with:
 
 ---
 
-##Research and Projects:
+## Research and Projects:
 
 **Constant Mean Curvature (CMC) Rotational Hypersurfaces**
 - Research focusing on the discovery and analysis of new families of CMC rotational hypersurfaces on spheres.
