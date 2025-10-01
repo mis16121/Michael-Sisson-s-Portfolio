@@ -1,13 +1,11 @@
 ---
 title: Home Page
 ---
-## Michael Sisson
+## Michael Sisson's Academic & Research Portfolio
 
 [michael.sisson@uconn.edu]
 
 Essex, Connecticut
-
-Welcome to my portfolio!
 
 ---
 
