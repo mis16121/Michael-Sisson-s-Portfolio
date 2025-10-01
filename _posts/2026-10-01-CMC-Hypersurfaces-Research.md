@@ -28,5 +28,6 @@ Through this research my mathematical toolkit has expanded and I have been intro
 
 - Perturbation theory and desingularization methods
 - Calculus of variations
-- Various theorems from topology 
+- Theorems from topology 
 
+This experience has also allowed me to continue to use and sharpen my knowledge and intuition in linear algebra, differential equations, vector calculus, and differential geometry.
