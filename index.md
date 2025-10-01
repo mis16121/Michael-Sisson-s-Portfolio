@@ -35,8 +35,4 @@ Research and Projects:
 - Computational + purely mathematical approaches utilized to discover new families + prove their existence.
 
 **Project + Presentation on Principles of Robot Motion and Configuration Manifolds**
-- Covered topics including
-  -configuration space topology and dimension
-  -obstacles and path planning problems
-  -matrix representations of rigid body configurations (SO(n) and SE(n))
-  -transformations between configuration and velocity representations
+- Covered topics including: configuration space topology and dimension, obstacles and path planning problems, matrix representations of rigid body configurations (SO(n) and SE(n)), transformations between configuration and velocity representations, induced metrics + physical interpretation of geodesics. 
