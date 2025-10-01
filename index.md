@@ -1,7 +1,7 @@
 ---
 title: Home Page
 ---
-## Michael Sisson's Academic & Research Portfolio
+## Michael Sisson's Academic and Research Portfolio
 
 [michael.sisson@uconn.edu]
 
