@@ -18,9 +18,15 @@ Where $SF$ is either S(Sphere), AdS(Anti-de Sitter), dS(de Sitter), or H(Hyperbo
 - Worked on coordinate transformation of ODE systems and the associated solution algorithm
 
 - Utilized Mathematica extensively
-    - to deploy numerical methods to evaluate systems of ODEs.
-    - to produce, aggregate, and visually organzing large sets of data.
+    - deploying numerical methods to evaluate systems of ODEs.
+    - producing, aggregate, and visually organzing large sets of data.
     - work with algorithms to reduce error
       
+# Mathematical Skill Development
 
+Through this research my mathematical toolkit has expanded and I have been introduced to many concepts relevant to problems in physics such as:
+
+- Perturbation theory and desingularization methods
+- Calculus of variations
+- Various theorems from topology 
 
