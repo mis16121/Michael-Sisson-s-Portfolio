@@ -11,7 +11,7 @@ Essex, Connecticut
 
 # About Me
 
-I am a dual **mathematics-physics** major at the University of Connecticut, graduating in the Spring of 2027. I am interested in interdisciplinary collaboration, deploying theory and computational methods from mathematics and physics to better understand complex adaptive systems and other phenomena across various scientific domains. Of particular interest to me is the intersection of mathematics, physics, and biology, especially geometric approaches to biomechanical systems and their configuration spaces. 
+I am a dual **mathematics-physics** major at the University of Connecticut, graduating in the Spring of 2027. I am interested in interdisciplinary collaboration, utilizing theory and computational methods from mathematics and physics to better understand complex adaptive systems and other phenomena across various scientific domains. Of particular interest to me is the intersection of mathematics, physics, and biology, especially geometric approaches to biomechanical systems and their configuration spaces. 
 
 Cumulative GPA: *3.852*
 
