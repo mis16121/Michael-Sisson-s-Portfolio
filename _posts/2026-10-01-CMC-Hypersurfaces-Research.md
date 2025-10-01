@@ -11,7 +11,11 @@ I have been very fortunate to get the opportunity to work study CMC rotational h
 - Derived systems of ODEs governing a particular construction CMC rotational hypersurfaces in de Sitter space, Anti-de Sitter space, and Hyperbolic space via an immersion $\phi: SF^l \times SF^k  \times  \mathbb{R}\to SF^{n+1}$
 Where $SF$ is either S(Sphere), AdS(Anti-de Sitter), dS(de Sitter), or H(Hyperbolic space) and n = l + k + 1
 
-- Analyzed symmetry break bifurcations in parameter space from $S^2$ to $S^24$
+- Discovered new families of embedded CMC surfaces in $S^4$ 
+
+- Analyzed symmetry break bifurcations in parameter space and their behavior from $S^4$ through $S^{24}$
+
+- Worked on coordinate transformation of ODE systems and the associated solution algorithm
 
 - Utilized Mathematica extensively
     - to deploy numerical methods to evaluate systems of ODEs.
